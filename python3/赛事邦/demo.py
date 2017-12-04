@@ -12,7 +12,7 @@ k = PyKeyboard()
 # -----------------------C:\Users\Administrator\Desktop\img\22-0.jpg
 # C:\Users\Administrator\Desktop\img\22-1.jpg
 # ------------------------- 配置部分 ------------------------------------------------
-# 固定密码C:\Users\Administrator\Desktop\img\193-0.jpg
+# 固定密码
 
 passwd = "aabbcc123"
 # 当前索引
